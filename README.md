@@ -1,2 +1,1 @@
-# AyED
-Algoritmo y Estructura de Datos UTN
+Uriel Alejandro Romero K1023
